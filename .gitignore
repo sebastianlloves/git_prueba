@@ -1,0 +1,23 @@
+# Temporales
+*.temp
+*.tmp
+*.swp
+temp/
+tmp/
+
+# Documentación
+docs/
+logs/
+log*.md
+blame*.md
+*.txt
+*.doc
+*.docx
+
+# Módulos
+node_modules/
+libs/
+libraries/
+vendor/
+composer/
+*.docker
