@@ -13,3 +13,11 @@ blame*.md
 *.txt
 *.doc
 *.docx
+
+# Módulos
+node_modules/
+libs/
+libraries/
+vendor/
+composer/
+*.docker
