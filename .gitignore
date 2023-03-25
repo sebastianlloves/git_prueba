@@ -1,0 +1,15 @@
+# Temporales
+*.temp
+*.tmp
+*.swp
+temp/
+tmp/
+
+# Documentación
+docs/
+logs/
+log*.md
+blame*.md
+*.txt
+*.doc
+*.docx
